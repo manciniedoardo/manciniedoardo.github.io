@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Edoardo Mancini"
+  navbar:
+    title: false
+    left:
+      - href: index.qmd
+        text: Edoardo Mancini
+      - href: presentations_publications.qmd
+        text: Presentations and Publications
+    right:
+      - icon: github
+        href: https://github.com/manciniedoardo
+      - icon: linkedin
+        href: https://www.linkedin.com/in/manciniedoardo/
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

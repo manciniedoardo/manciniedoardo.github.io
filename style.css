@@ -1,0 +1,5 @@
+/* Make the navigation bar slightly more prominent */
+.navbar {
+  font-weight: 500;
+  border-bottom: 1px solid #dee2e6;
+}

@@ -1,0 +1,54 @@
+---
+title: "Edoardo Mancini"
+toc: false
+page-layout: full
+---
+
+<style>
+/* Hides the default page title */
+#title-block-header {
+  display: none;
+}
+
+/* Custom gap adjustment */
+.extra-wide-gap {
+  column-gap: 4.5rem !important;
+}
+</style>
+
+::: {style="text-align: left;"}
+# Edoardo Mancini
+:::
+
+::: {.grid .extra-wide-gap .mt-4}
+
+::: {.g-col-12 .g-col-md-5}
+<!-- Photo Column -->
+![](edoardomancini.jpg){width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);"}
+
+<div style="margin-top: 1rem;">
+[{{< iconify fa6-brands github >}} Github](https://github.com/manciniedoardo){.btn .btn-outline-dark target="_blank"}
+[{{< iconify fa6-brands linkedin >}} LinkedIn](https://www.linkedin.com/in/manciniedoardo/){.btn .btn-outline-dark target="_blank"}
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6}
+<!-- Bio Column -->
+
+## About Me {.mt-0}
+
+I am a Senior Data Scientist working at Roche in the UK. My work involves leading statistical programming activities in early and late-stage clinical trials. I am also a passionate advocate for R and Open Source, and am able to pursue these interests in my current role as Business Lead for the [{admiral}](https://pharmaverse.github.io/admiral/cran-release/) R package. 
+
+Outside of work, I enjoy playing chess, reading, and running.
+
+## Education
+
+**Imperial College London**  
+*MSc in Applied Mathematics* | Sept 2020 - Sept 2021
+
+**University of Bath**  
+*BSc in Mathematics with Placement* | Sept 2016 - May 2020
+
+:::
+
+:::

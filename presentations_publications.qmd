@@ -1,0 +1,47 @@
+---
+title: "Presentations and Publications"
+---
+
+## 2026
+
+#### **R we there yet? {admiral}'s journey from active development to stability**
+
+*useR! - Warsaw, Poland*
+
+(Upcoming)
+
+## 2025
+
+#### **R we there yet? {admiral}'s journey from active development to stability**  
+
+*R in Pharma - Virtual Conference*
+
+[Video](https://www.youtube.com/watch?v=4mFZFG1Ik4Q)
+
+## 2024
+
+#### **{admiral} - The {dplyr} of the pharmaceutical industry?**
+
+*useR! - Salzburg, Austria *  
+
+## 2023
+
+#### **Eyes On the Prize – The Development of {admiralophtha}, an R Package for Ophthalmology ADaMs** 
+
+*PHUSE EU Connect - Birmingham, UK*  
+
+[Slides](https://phuse.s3.eu-central-1.amazonaws.com/Archive/2023/Connect/EU/Birmingham/PRE_TT03.pdf) | [Paper](https://phuse.s3.eu-central-1.amazonaws.com/Archive/2023/Connect/EU/Birmingham/PAP_TT03.pdf)
+
+#### **{admiral} - from Open Source to Company Implementation**
+
+*R in Pharma - Virtual Conference*
+
+[Video](https://www.youtube.com/watch?v=ZbV3E0_xrrI)
+
+## 2022
+
+#### **Nonlinear laminar 'dynamos' linear in one coordinate**
+
+*Magnetohydrodynamics - Journal Article*
+
+DOI: [10.22364/mhd.58.4.7](https://www.researchgate.net/publication/382451853_Nonlinear_laminar_dynamos'_linear_in_one_coordinate)
