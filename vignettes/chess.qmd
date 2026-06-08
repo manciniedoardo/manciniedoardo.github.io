@@ -2,7 +2,7 @@
 title: "Chess"
 ---
 
-Here is a collection of my best over-the-board (OTB) chess games. You can click through the moves directly on the board below.
+Here is a collection of some of my best or most significant over-the-board (OTB) chess games. You can click through the moves directly on the board below.
 
 ## 2024
 
