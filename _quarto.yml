@@ -7,10 +7,12 @@ website:
   navbar:
     title: false
     left:
-      - href: index.qmd
+      - href: home.qmd
         text: Edoardo Mancini
-      - href: presentations_publications.qmd
-        text: Presentations and Publications
+      - href: vignettes/presentations_publications.qmd
+        text: 📈️ Presentations and Publications
+      - href: vignettes/chess.qmd
+        text: ♟️ Chess
     right:
       - icon: github
         href: https://github.com/manciniedoardo
@@ -20,5 +22,5 @@ website:
 format:
   html:
     theme: flatly
-    css: styles.css
+    css: css/styles.css
     toc: true

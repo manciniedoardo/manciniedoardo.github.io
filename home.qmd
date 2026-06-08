@@ -24,7 +24,7 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-5}
 <!-- Photo Column -->
-![](edoardomancini.jpg){width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);"}
+![](images/edoardomancini.jpg){width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);"}
 
 <div style="margin-top: 1rem;">
 [{{< iconify fa6-brands github >}} Github](https://github.com/manciniedoardo){.btn .btn-outline-dark target="_blank"}
@@ -37,7 +37,7 @@ page-layout: full
 
 ## About Me {.mt-0}
 
-I am a Senior Data Scientist working at Roche in the UK. My work involves leading statistical programming activities in early and late-stage clinical trials. I am also a passionate advocate for R and Open Source, and am able to pursue these interests in my current role as Business Lead for the [{admiral}](https://pharmaverse.github.io/admiral/cran-release/) R package. 
+I am a Senior Data Scientist working at Roche in the UK. My work involves leading statistical programming activities in early and late-stage clinical trials. I am also a passionate advocate for R and Open Source, and am able to pursue these interests in my current role as maintainer for the [{admiral}](https://pharmaverse.github.io/admiral/cran-release/) R package. 
 
 Outside of work, I enjoy playing chess, reading, and running.
 

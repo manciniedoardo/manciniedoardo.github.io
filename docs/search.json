@@ -1,58 +1,86 @@
 [
   {
-    "objectID": "presentations_publications.html",
-    "href": "presentations_publications.html",
+    "objectID": "vignettes/chess.html",
+    "href": "vignettes/chess.html",
+    "title": "Chess",
+    "section": "",
+    "text": "Here is a collection of my best over-the-board (OTB) chess games. You can click through the moves directly on the board below."
+  },
+  {
+    "objectID": "vignettes/chess.html#section",
+    "href": "vignettes/chess.html#section",
+    "title": "Chess",
+    "section": "2024",
+    "text": "2024\nThis is one of my first wins after coming back to OTB chess post-pandemic, in an exciting open Sicilian."
+  },
+  {
+    "objectID": "vignettes/chess.html#section-1",
+    "href": "vignettes/chess.html#section-1",
+    "title": "Chess",
+    "section": "2025",
+    "text": "2025\nThis is my best-ever game in the Scotch opening, against a strong opponent.\n\n\nThis game is a really hard-fought draw against Matt Ball, an acclaimed chess author. I was playing Board 2 in the Herts & District final (Welwyn-Hatfield vs St Albans) and was under pressure the whole game. The draw was critical for our Welwyn-Hatfield to win the match and the cup."
+  },
+  {
+    "objectID": "vignettes/chess.html#section-2",
+    "href": "vignettes/chess.html#section-2",
+    "title": "Chess",
+    "section": "2026",
+    "text": "2026\nThis is my best win of 2026, and my first against a titled and 2000+ rated opponent."
+  },
+  {
+    "objectID": "home.html#about-me",
+    "href": "home.html#about-me",
+    "title": "Edoardo Mancini",
+    "section": "About Me",
+    "text": "About Me\nI am a Senior Data Scientist working at Roche in the UK. My work involves leading statistical programming activities in early and late-stage clinical trials. I am also a passionate advocate for R and Open Source, and am able to pursue these interests in my current role as maintainer for the {admiral} R package.\nOutside of work, I enjoy playing chess, reading, and running."
+  },
+  {
+    "objectID": "home.html#education",
+    "href": "home.html#education",
+    "title": "Edoardo Mancini",
+    "section": "Education",
+    "text": "Education\nImperial College London\nMSc in Applied Mathematics | Sept 2020 - Sept 2021\nUniversity of Bath\nBSc in Mathematics with Placement | Sept 2016 - May 2020"
+  },
+  {
+    "objectID": "vignettes/presentations_publications.html",
+    "href": "vignettes/presentations_publications.html",
     "title": "Presentations and Publications",
     "section": "",
     "text": "useR! - Warsaw, Poland\n(Upcoming)"
   },
   {
-    "objectID": "presentations_publications.html#section",
-    "href": "presentations_publications.html#section",
+    "objectID": "vignettes/presentations_publications.html#section",
+    "href": "vignettes/presentations_publications.html#section",
     "title": "Presentations and Publications",
     "section": "",
     "text": "useR! - Warsaw, Poland\n(Upcoming)"
   },
   {
-    "objectID": "presentations_publications.html#section-1",
-    "href": "presentations_publications.html#section-1",
+    "objectID": "vignettes/presentations_publications.html#section-1",
+    "href": "vignettes/presentations_publications.html#section-1",
     "title": "Presentations and Publications",
     "section": "2025",
     "text": "2025\n\nR we there yet? {admiral}’s journey from active development to stability\nR in Pharma - Virtual Conference\nVideo"
   },
   {
-    "objectID": "presentations_publications.html#section-2",
-    "href": "presentations_publications.html#section-2",
+    "objectID": "vignettes/presentations_publications.html#section-2",
+    "href": "vignettes/presentations_publications.html#section-2",
     "title": "Presentations and Publications",
     "section": "2024",
     "text": "2024\n\n{admiral} - The {dplyr} of the pharmaceutical industry?\nuseR! - Salzburg, Austria"
   },
   {
-    "objectID": "presentations_publications.html#section-3",
-    "href": "presentations_publications.html#section-3",
+    "objectID": "vignettes/presentations_publications.html#section-3",
+    "href": "vignettes/presentations_publications.html#section-3",
     "title": "Presentations and Publications",
     "section": "2023",
     "text": "2023\n\nEyes On the Prize – The Development of {admiralophtha}, an R Package for Ophthalmology ADaMs\nPHUSE EU Connect - Birmingham, UK\nSlides | Paper\n\n\n{admiral} - from Open Source to Company Implementation\nR in Pharma - Virtual Conference\nVideo"
   },
   {
-    "objectID": "presentations_publications.html#section-4",
-    "href": "presentations_publications.html#section-4",
+    "objectID": "vignettes/presentations_publications.html#section-4",
+    "href": "vignettes/presentations_publications.html#section-4",
     "title": "Presentations and Publications",
     "section": "2022",
     "text": "2022\n\nNonlinear laminar ‘dynamos’ linear in one coordinate\nMagnetohydrodynamics - Journal Article\nDOI: 10.22364/mhd.58.4.7"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Edoardo Mancini",
-    "section": "About Me",
-    "text": "About Me\nI am a Senior Data Scientist working at Roche in the UK. My work involves leading statistical programming activities in early and late-stage clinical trials. I am also a passionate advocate for R and Open Source, and am able to pursue these interests in my current role as Business Lead for the {admiral} R package.\nOutside of work, I enjoy playing chess, reading, and running."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Edoardo Mancini",
-    "section": "Education",
-    "text": "Education\nImperial College London\nMSc in Applied Mathematics | Sept 2020 - Sept 2021\nUniversity of Bath\nBSc in Mathematics with Placement | Sept 2016 - May 2020"
   }
 ]

@@ -1,0 +1,26 @@
+---
+title: "Chess"
+---
+
+Here is a collection of my best over-the-board (OTB) chess games. You can click through the moves directly on the board below.
+
+## 2024
+
+This is one of my first wins after coming back to OTB chess post-pandemic, in an exciting open Sicilian.
+
+<iframe width="100%" height="500" src="https://lichess.org/study/embed/o4HKgj9y/9NDVdYKH" frameborder=0></iframe>
+
+## 2025
+
+This is my best-ever game in the Scotch opening, against a strong opponent.
+
+<iframe width="100%" height="500" src="https://lichess.org/study/embed/o4HKgj9y/Jx30xEBZ" frameborder=0></iframe>
+
+This game is a really hard-fought draw against Matt Ball, an acclaimed chess author. I was playing Board 2 in the Herts & District final (Welwyn-Hatfield vs St Albans) and was under pressure the whole game. The draw was critical for our Welwyn-Hatfield to win the match and the cup.
+
+<iframe width="100%" height="500" src="https://lichess.org/study/embed/o4HKgj9y/nRt05AVJ" frameborder=0></iframe>
+
+## 2026 
+
+This is my best win of 2026, and my first against a titled and 2000+ rated opponent.
+<iframe width="100%" height="500" src="https://lichess.org/study/embed/o4HKgj9y/24mygz9I" frameborder=0></iframe>
