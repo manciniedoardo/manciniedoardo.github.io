@@ -144,3 +144,49 @@ body.quarto-dark ::selection {
   background-color: #555555 !important; 
   color: #f8f9fa !important;            
 }
+
+/* =========================================
+   TABLE OF CONTENTS (TOC)
+   ========================================= */
+
+/* 1. Light Mode (Default) */
+/* Base inactive links */
+#TOC a,
+.toc-actions a {
+  color: #6c757d !important; 
+  transition: color 0.2s ease-in-out;
+}
+
+/* Hovering over inactive links */
+#TOC a:hover,
+.toc-actions a:hover {
+  color: #212529 !important;
+}
+
+/* The ACTIVE link and the vertical tracking line */
+#TOC a.active,
+#TOC .nav-link.active {
+  color: #212529 !important; 
+  border-left-color: #212529 !important; /* Kills the teal vertical line */
+}
+
+
+/* 2. Dark Mode */
+/* Base inactive links */
+body.quarto-dark #TOC a,
+body.quarto-dark .toc-actions a {
+  color: #adb5bd !important;
+}
+
+/* Hovering over inactive links */
+body.quarto-dark #TOC a:hover,
+body.quarto-dark .toc-actions a:hover {
+  color: #ffffff !important;
+}
+
+/* The ACTIVE link and the vertical tracking line */
+body.quarto-dark #TOC a.active,
+body.quarto-dark #TOC .nav-link.active {
+  color: #ffffff !important;
+  border-left-color: #ffffff !important; /* Kills the dark mode teal line */
+}
