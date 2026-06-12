@@ -4,6 +4,10 @@ project:
 
 website:
   title: "Edoardo Mancini"
+  site-url: "https://manciniedoardo.github.io"
+  favicon: images/favicon.png
+  open-graph: true
+  twitter-card: true
   navbar:
     title: false
     left:
@@ -18,9 +22,17 @@ website:
         href: https://github.com/manciniedoardo
       - icon: linkedin
         href: https://www.linkedin.com/in/manciniedoardo/
+      - text: <i class='fa-brands fa-orcid'></i>
+        href: https://orcid.org/0009-0006-4899-8641
 
 format:
   html:
-    theme: flatly
-    css: css/styles.css
+    theme:
+      light: flatly
+      dark: darkly
+    css: css/style.css
     toc: true
+    lightbox: true
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">

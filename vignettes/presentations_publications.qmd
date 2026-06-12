@@ -60,6 +60,4 @@ Winner of the "Best in Stream" prize.
 
 *Magnetohydrodynamics - Journal Article*
 
-DOI: [10.22364/mhd.58.4.7](https://www.researchgate.net/publication/382451853_Nonlinear_laminar_dynamos'_linear_in_one_coordinate)
-
-[Paper](https://www.mhd.sal.lv/Download/download-opac_V61N1.php?ed=rn&vol=58&nr=4&an=7&p1=435&p2=435)  (login required)
+DOI: [10.22364/mhd.58.4.7](https://www.researchgate.net/publication/382451853_Nonlinear_laminar_dynamos'_linear_in_one_coordinate) | [Paper](https://www.mhd.sal.lv/Download/download-opac_V61N1.php?ed=rn&vol=58&nr=4&an=7&p1=435&p2=435)  (login required)

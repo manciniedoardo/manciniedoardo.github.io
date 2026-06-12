@@ -27,8 +27,9 @@ page-layout: full
 ![](images/edoardomancini.jpg){width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);"}
 
 <div style="margin-top: 1rem;">
-[{{< iconify fa6-brands github >}} Github](https://github.com/manciniedoardo){.btn .btn-outline-dark target="_blank"}
-[{{< iconify fa6-brands linkedin >}} LinkedIn](https://www.linkedin.com/in/manciniedoardo/){.btn .btn-outline-dark target="_blank"}
+[{{< iconify fa6-brands github >}} Github](https://github.com/manciniedoardo){.btn .btn-custom target="_blank"}
+[{{< iconify fa6-brands linkedin >}} LinkedIn](https://www.linkedin.com/in/manciniedoardo/){.btn .btn-custom target="_blank"}
+[{{< iconify fa6-brands orcid >}} ORCID](https://orcid.org/0009-0006-4899-8641/){.btn .btn-custom target="_blank"}
 </div>
 :::
 
