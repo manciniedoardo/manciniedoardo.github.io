@@ -4,7 +4,7 @@
     "href": "vignettes/chess.html",
     "title": "Chess",
     "section": "",
-    "text": "Here is a collection of my best over-the-board (OTB) chess games. You can click through the moves directly on the board below."
+    "text": "Here is a collection of some of my best or most significant over-the-board (OTB) chess games. You can click through the moves directly on the board below."
   },
   {
     "objectID": "vignettes/chess.html#section",
@@ -46,14 +46,14 @@
     "href": "vignettes/presentations_publications.html",
     "title": "Presentations and Publications",
     "section": "",
-    "text": "useR! - Warsaw, Poland\n(Upcoming)"
+    "text": "PHUSE EU Connect - Glasgow, UK\n(Upcoming)\n\n\n\nuseR! - Warsaw, Poland\n(Upcoming)"
   },
   {
     "objectID": "vignettes/presentations_publications.html#section",
     "href": "vignettes/presentations_publications.html#section",
     "title": "Presentations and Publications",
     "section": "",
-    "text": "useR! - Warsaw, Poland\n(Upcoming)"
+    "text": "PHUSE EU Connect - Glasgow, UK\n(Upcoming)\n\n\n\nuseR! - Warsaw, Poland\n(Upcoming)"
   },
   {
     "objectID": "vignettes/presentations_publications.html#section-1",
@@ -67,20 +67,20 @@
     "href": "vignettes/presentations_publications.html#section-2",
     "title": "Presentations and Publications",
     "section": "2024",
-    "text": "2024\n\n{admiral} - The {dplyr} of the pharmaceutical industry?\nuseR! - Salzburg, Austria"
+    "text": "2024\n\n{admiral} - The {dplyr} of the pharmaceutical industry?\nuseR! - Salzburg, Austria \n\n\nTwo Hats, One Noggin: Working as a Developer and as a User of the Admiral R Package for Creating ADaM\nPHUSE EU Connect - Birmingham, UK\nSlides | Paper\nWinner of the “Best in Stream” prize."
   },
   {
     "objectID": "vignettes/presentations_publications.html#section-3",
     "href": "vignettes/presentations_publications.html#section-3",
     "title": "Presentations and Publications",
     "section": "2023",
-    "text": "2023\n\nEyes On the Prize – The Development of {admiralophtha}, an R Package for Ophthalmology ADaMs\nPHUSE EU Connect - Birmingham, UK\nSlides | Paper\n\n\n{admiral} - from Open Source to Company Implementation\nR in Pharma - Virtual Conference\nVideo"
+    "text": "2023\n\nEyes On the Prize – The Development of {admiralophtha}, an R Package for Ophthalmology ADaMs\nPHUSE EU Connect - Strasbourg, France\nSlides | Paper\n\n\n{admiral} - from Open Source to Company Implementation\nR in Pharma - Virtual Conference\nVideo"
   },
   {
     "objectID": "vignettes/presentations_publications.html#section-4",
     "href": "vignettes/presentations_publications.html#section-4",
     "title": "Presentations and Publications",
     "section": "2022",
-    "text": "2022\n\nNonlinear laminar ‘dynamos’ linear in one coordinate\nMagnetohydrodynamics - Journal Article\nDOI: 10.22364/mhd.58.4.7"
+    "text": "2022\n\nNonlinear laminar ‘dynamos’ linear in one coordinate\nMagnetohydrodynamics - Journal Article\nDOI: 10.22364/mhd.58.4.7\nPaper (login required)"
   }
 ]

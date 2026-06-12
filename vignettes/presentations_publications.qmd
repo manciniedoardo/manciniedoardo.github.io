@@ -4,7 +4,13 @@ title: "Presentations and Publications"
 
 ## 2026
 
-#### **R we there yet? {admiral}'s journey from active development to stability**
+##### **Code that writes code that writes code?! Creating ADaMs in R with {admiralroche}** 
+
+*PHUSE EU Connect - Glasgow, UK*  
+
+(Upcoming)
+
+##### **R We There Yet? Surviving the Transition to Package Maturity**
 
 *useR! - Warsaw, Poland*
 
@@ -12,7 +18,7 @@ title: "Presentations and Publications"
 
 ## 2025
 
-#### **R we there yet? {admiral}'s journey from active development to stability**  
+##### **R we there yet? {admiral}'s journey from active development to stability**  
 
 *R in Pharma - Virtual Conference*
 
@@ -20,19 +26,27 @@ title: "Presentations and Publications"
 
 ## 2024
 
-#### **{admiral} - The {dplyr} of the pharmaceutical industry?**
+##### **{admiral} - The {dplyr} of the pharmaceutical industry?**
 
 *useR! - Salzburg, Austria *  
 
-## 2023
-
-#### **Eyes On the Prize – The Development of {admiralophtha}, an R Package for Ophthalmology ADaMs** 
+##### **Two Hats, One Noggin: Working as a Developer and as a User of the Admiral R Package for Creating ADaM**
 
 *PHUSE EU Connect - Birmingham, UK*  
 
 [Slides](https://phuse.s3.eu-central-1.amazonaws.com/Archive/2023/Connect/EU/Birmingham/PRE_TT03.pdf) | [Paper](https://phuse.s3.eu-central-1.amazonaws.com/Archive/2023/Connect/EU/Birmingham/PAP_TT03.pdf)
 
-#### **{admiral} - from Open Source to Company Implementation**
+Winner of the "Best in Stream" prize.
+
+## 2023
+
+##### **Eyes On the Prize – The Development of {admiralophtha}, an R Package for Ophthalmology ADaMs** 
+
+*PHUSE EU Connect - Strasbourg, France*  
+
+[Slides](https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PRE_OS07.pdf) | [Paper](https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PAP_OS07.pdf)
+
+##### **{admiral} - from Open Source to Company Implementation**
 
 *R in Pharma - Virtual Conference*
 
@@ -40,8 +54,10 @@ title: "Presentations and Publications"
 
 ## 2022
 
-#### **Nonlinear laminar 'dynamos' linear in one coordinate**
+##### **Nonlinear laminar 'dynamos' linear in one coordinate**
 
 *Magnetohydrodynamics - Journal Article*
 
 DOI: [10.22364/mhd.58.4.7](https://www.researchgate.net/publication/382451853_Nonlinear_laminar_dynamos'_linear_in_one_coordinate)
+
+[Paper](https://www.mhd.sal.lv/Download/download-opac_V61N1.php?ed=rn&vol=58&nr=4&an=7&p1=435&p2=435)  (login required)
