@@ -30,6 +30,8 @@ title: "Presentations and Publications"
 
 *useR! - Salzburg, Austria *  
 
+[Slides](https://stefanthoma.github.io/useR_2024_admiral/#/title-slide)
+
 ##### **Two Hats, One Noggin: Working as a Developer and as a User of the Admiral R Package for Creating ADaM**
 
 *PHUSE EU Connect - Birmingham, UK*  
