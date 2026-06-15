@@ -342,9 +342,6 @@ ul.task-list li input[type="checkbox"] {
   column-gap: 4.5rem !important;
 }
 </style>
-<section id="edoardo-mancini" class="level1" style="text-align: left;">
-<h1>Edoardo Mancini</h1>
-</section>
 <div class="grid extra-wide-gap mt-4">
 <div class="g-col-12 g-col-md-5">
 <!-- Photo Column -->
@@ -355,6 +352,32 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="g-col-12 g-col-md-6">
 <!-- Bio Column -->
+<!-- Typing effect animation -->
+<div class="typewriter-container">
+<h2 class="typewriter-text anchored">
+Hello! My name is Edoardo Mancini 👋
+</h2>
+</div>
+<!-- CSS for animation-->
+<style>
+.typewriter-container {
+  display: inline-block;
+}
+.typewriter-text {
+  overflow: hidden;      /* Ensures the content is hidden until typed out */
+  white-space: nowrap;   /* Keeps the content on a single line */
+  margin: 0 auto 1rem auto; 
+  letter-spacing: .05em; 
+  width: 0;              /* Starts at 0 width */
+  animation: typing 3.5s steps(30, end) forwards; /* 'forwards' keeps it open when done */
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+</style>
 <section id="about-me" class="level2 mt-0">
 <h2 class="mt-0 anchored" data-anchor-id="about-me">About Me</h2>
 <p>I am a Senior Data Scientist working at Roche in the UK. My work involves leading statistical programming activities in early and late-stage clinical trials. I am also a passionate advocate for R and Open Source, and am able to pursue these interests in my current role as maintainer for the <a href="https://pharmaverse.github.io/admiral/cran-release/">{admiral}</a> R package.</p>

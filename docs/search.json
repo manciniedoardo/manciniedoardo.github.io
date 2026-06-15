@@ -28,18 +28,25 @@
     "text": "2024\nThis is one of my first wins after coming back to OTB chess post-pandemic, in an exciting open Sicilian."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Edoardo Mancini",
+    "section": "",
+    "text": "Github  LinkedIn  ORCID\n\n\n\n\n\n\n\n\n\n\n\n\nI am a Senior Data Scientist working at Roche in the UK. My work involves leading statistical programming activities in early and late-stage clinical trials. I am also a passionate advocate for R and Open Source, and am able to pursue these interests in my current role as maintainer for the {admiral} R package.\nOutside of work, I enjoy playing chess, reading, and running.\n\n\n\nImperial College London\nMSc in Applied Mathematics | Sept 2020 - Sept 2021\nUniversity of Bath\nBSc in Mathematics with Placement | Sept 2016 - May 2020"
+  },
+  {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Edoardo Mancini",
-    "section": "About Me",
-    "text": "About Me\nI am a Senior Data Scientist working at Roche in the UK. My work involves leading statistical programming activities in early and late-stage clinical trials. I am also a passionate advocate for R and Open Source, and am able to pursue these interests in my current role as maintainer for the {admiral} R package.\nOutside of work, I enjoy playing chess, reading, and running."
+    "section": "",
+    "text": "I am a Senior Data Scientist working at Roche in the UK. My work involves leading statistical programming activities in early and late-stage clinical trials. I am also a passionate advocate for R and Open Source, and am able to pursue these interests in my current role as maintainer for the {admiral} R package.\nOutside of work, I enjoy playing chess, reading, and running."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Edoardo Mancini",
-    "section": "Education",
-    "text": "Education\nImperial College London\nMSc in Applied Mathematics | Sept 2020 - Sept 2021\nUniversity of Bath\nBSc in Mathematics with Placement | Sept 2016 - May 2020"
+    "section": "",
+    "text": "Imperial College London\nMSc in Applied Mathematics | Sept 2020 - Sept 2021\nUniversity of Bath\nBSc in Mathematics with Placement | Sept 2016 - May 2020"
   },
   {
     "objectID": "vignettes/presentations_publications.html",
