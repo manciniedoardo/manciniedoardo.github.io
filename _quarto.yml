@@ -11,7 +11,7 @@ website:
   navbar:
     title: false
     left:
-      - href: home.qmd
+      - href: index.qmd
         text: Edoardo Mancini
       - href: vignettes/presentations_publications.qmd
         text: 📈️ Presentations and Publications
